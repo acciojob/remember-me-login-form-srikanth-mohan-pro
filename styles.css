@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+h1 {
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+#existing{
+	display: none;
+}
